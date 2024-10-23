@@ -32,7 +32,7 @@ Para trabajar con este proyecto en tu entorno local, sigue estos pasos:
 
 1. **Clona este repositorio**:
    ```bash
-   git clone --recurse-submodules <URL_DEL_REPOSITORIO_PRINCIPAL>
+   git clone --recurse-submodules https://github.com/hrucalc/proyecto-final.git
    cd mi-proyecto
    ```
 
